@@ -1,7 +1,7 @@
 +++
 date = 2020-05-16T00:00:00Z
-feature_image = ""
-title = "Video Test"
+feature_image = "/uploads/whatsapp-image-2020-05-21-at-7-16-52-pm.jpeg"
+title = "Peternakan Keren"
 
 +++
 Very basic page just to test how an embedded video might appear.
